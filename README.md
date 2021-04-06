@@ -1,9 +1,5 @@
 # Ensemble Epistasis
 
-This repository will contain all scripts, data and jupyter notebooks
-used for the paper.
+This repository contains jupyter notebooks to make figures for
+Ensemble epistasis: thermodynamic origins of non-additivity between mutations
 
-Currently waiting for upload:
-- output-cycles.txt (too large?)
-- rosetta input structures
-- rosetta bash script
