@@ -1,6 +1,6 @@
 # Ensemble Epistasis
 
-This repository contains scripts and jupyter notebooks used for the analysis presented in [Ensemble epistasis: thermodynamic origins of non-addivity between mutations]() by Anneliese J. Morrison, Daria R. Wonderlick, and Michael J. Harms. There are three jupyter notebooks (`Fig-3.ipynb`, `Fig-4.ipynb`,  and `Fig-5-6-SI.ipynb`), corresponding to the display figures in the manuscript. The `preprint` directory contains jupyter notebooks corresponding to the papers in the preprint. The `rosetta` directory contains the ROSETTA `ddG` calculations needed for figure 4. 
+This repository contains scripts and jupyter notebooks used for the analysis presented in [Ensemble epistasis: thermodynamic origins of non-addivity between mutations](https://www.biorxiv.org/content/10.1101/2020.10.14.339671v1.full) by Anneliese J. Morrison, Daria R. Wonderlick, and Michael J. Harms. There are three jupyter notebooks (`Fig-3.ipynb`, `Fig-4.ipynb`,  and `Fig-5-6-SI.ipynb`), corresponding to the display figures in the manuscript. The `preprint` directory contains jupyter notebooks corresponding to the papers in the preprint. The `rosetta` directory contains the ROSETTA `ddG` calculations needed for figure 4. 
 
 ### ROSETTA calculations
 
